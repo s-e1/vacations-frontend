@@ -10,4 +10,4 @@ Clone both repositories to your computer, in cmd cd to the folders and do npm in
 In phpmyadmin, create a new db, and import the sql file to it.
 Npm start front and backend.
 
-To login as admin, user:admin, password : 1234
+To login as admin, enter: "user : admin, password : 1234"
