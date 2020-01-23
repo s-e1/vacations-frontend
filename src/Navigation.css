@@ -1,0 +1,7 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+nav h3{
+    padding-right: 15px;
+}
