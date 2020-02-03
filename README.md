@@ -11,3 +11,5 @@ In phpmyadmin, create a new db, and import the sql file to it.
 Npm start front and backend.
 
 To login as admin, enter: "user : admin, password : 1234"
+
+The heroku app takes around 30 seconds to start after a period of inactivity.
